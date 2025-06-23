@@ -3,9 +3,6 @@
 This is a **Streamlit app** that lets you upload PDF financial documents (bank statements, bills, etc.) and chat with them using a local Retrieval-Augmented Generation (RAG) pipeline.  
 All processing happens locally and privately — your documents and data never leave your machine.
 
-Based on [Medium tutorial by Kirill Petropavlov](https://medium.com/@kpetropavlov/building-a-local-rag-pipeline-with-python-ollama-chromadb-and-streamlit-f248554d163c)
-
-Based on <a href="https://medium.com/@kpetropavlov/building-a-local-rag-pipeline-with-python-ollama-chromadb-and-streamlit-f248554d163c" target="_blank" rel="noopener noreferrer">Medium tutorial by Kirill Petropavlov</a>
 ---
 
 ## Features
@@ -77,3 +74,11 @@ streamlit run app.py
 ![Query for June 2025 water bill](images/juneresult.png "Query for June 2025 water bill")
 
 ![June 2025 water bill](images/junebill.png "June 2025 water bill")
+
+
+---
+
+## Acknowledgement
+Based on <a href="https://medium.com/@kpetropavlov/building-a-local-rag-pipeline-with-python-ollama-chromadb-and-streamlit-f248554d163c" target="_blank" rel="noopener noreferrer">Medium tutorial by Kirill Petropavlov</a>
+
+---
