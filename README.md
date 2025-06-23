@@ -4,6 +4,8 @@ This is a **Streamlit app** that lets you upload PDF financial documents (bank s
 All processing happens locally and privately — your documents and data never leave your machine.
 
 Based on [Medium tutorial by Kirill Petropavlov](https://medium.com/@kpetropavlov/building-a-local-rag-pipeline-with-python-ollama-chromadb-and-streamlit-f248554d163c)
+
+Based on <a href="https://medium.com/@kpetropavlov/building-a-local-rag-pipeline-with-python-ollama-chromadb-and-streamlit-f248554d163c" target="_blank" rel="noopener noreferrer">Medium tutorial by Kirill Petropavlov</a>
 ---
 
 ## Features
