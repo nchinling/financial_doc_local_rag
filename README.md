@@ -70,7 +70,7 @@ streamlit run app.py
 
 ![May 2025 water bill](images/maybill.png "May 2025 water bill")
 
-### May water bill results  
-![Upload screen](images/juneresult.png "Query for June 2025 water bill")
+### June water bill results  
+![Query for June 2025 water bill](images/juneresult.png "Query for June 2025 water bill")
 
-![Upload screen](images/junebill.png "June 2025 water bill")
+![June 2025 water bill](images/junebill.png "June 2025 water bill")
