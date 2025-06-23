@@ -33,8 +33,8 @@ All processing happens locally and privately — your documents and data never l
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/nchinling/financial_doc_local_rag.git
+cd https://github.com/nchinling/financial_doc_local_rag.git
 ```
 
 2. **Create and activate a virtual environment**
@@ -51,7 +51,26 @@ venv\Scripts\activate       # Windows
 pip install chromadb streamlit pymupdf pytesseract Pillow sentence-transformers
 ```
 
-4. **Run the Streamlit app**
+4. **Install Tesseract (open-source OCR engine)**
+Windows installer
+https://github.com/UB-Mannheim/tesseract/wiki
+
+
+5. **Run the Streamlit app**
 ```bash
 streamlit run app.py
 ```
+
+---
+
+## Demonstration: Results
+
+### May water bill results  
+![Query for May 2025 water bill](images/mayresult.png "Query for May 2025 water bill")
+
+![May 2025 water bill](images/maybill.png "May 2025 water bill")
+
+### May water bill results  
+![Upload screen](images/juneresult.png "Query for June 2025 water bill")
+
+![Upload screen](images/junebill.png "June 2025 water bill")
