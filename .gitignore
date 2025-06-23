@@ -1,0 +1,15 @@
+# Ignore virtual environment
+venv/
+
+# Ignore uploaded or processed documents
+temp_docs/
+*.pdf
+
+# Ignore ChromaDB persistent data
+chroma_data/
+*.chroma/
+
+# Ignore system files
+__pycache__/
+*.pyc
+.DS_Store
